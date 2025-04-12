@@ -1,0 +1,162 @@
+[
+    {
+        "id":1,
+        "name": "The Secret Garden",
+        "title": "Whispers of the Wild",
+        "price":0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/closeup-shot-falcon-perching-wood-bark-with-clear-sky-surface_181624-43501.jpg?t=st=1732165809~exp=1732169409~hmac=da6efdbc8b19eeed7ef45a74862be9b7447922a48a0f94a1c8378f201c2da66b&w=996"
+    },
+    {
+        "id":2,
+        "name": "Moonlit Tales",
+        "title": "The Enchanted Forest",
+        "price":0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-vector/enchanted-forest-landscape-background_1308-67979.jpg?w=900"
+    },
+    {
+        "id":3,
+        "name": "Timeless Adventures",
+        "title": "The Lost City",
+        "price":0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/person-holding-compass_181624-15342.jpg?t=st=1732165920~exp=1732169520~hmac=39ebbc3977db7e7da7a916238593b936b139d21e83163c1bb561407480a92f14&w=996"
+    },
+    {
+        "id":4,
+        "name": "Fables of the Sea",
+        "title": "The Ocean's call",
+        "price":0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/wild-animals-boat_1308-106336.jpg?t=st=1732166000~exp=1732169600~hmac=beb43f082c5b2b795fb575043947f711b3c05538b4ee72b50318b973183fb475&w=996"
+    },
+    {
+        "id":5,
+        "name": "Dreams of Tomorrow",
+        "title": "The Last Horizon",
+        "price":0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/young-adult-having-fun-with-kite_23-2149326246.jpg?t=st=1732166174~exp=1732169774~hmac=965acd34c937b006740c23f1bfabbd950d88caa6c869a5065bd063ca0b3498c9&w=996"
+    },
+    {
+        "id":6,
+        "name": "Whimsical Wonders",
+        "title": "The Midnight Quest",
+        "price":0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/3d-zombie-creature-moonlight_1048-8842.jpg?t=st=1732166230~exp=1732169830~hmac=f3271e1e0c489eb50f2ab2c6267302f907d3774619ab3d4cdbbe50741ca314db&w=1060"
+    },
+    {
+        "id":7,
+        "name": "Tales of the Brave",
+        "title": "The Heart of The Storm",
+        "price":0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/adventurous-boy-enchanted-forest_1308-166681.jpg?t=st=1732166325~exp=1732169925~hmac=a454be26f853bb2c6e4735123802e53795e50a025ee9c8c42ec4565077d9a067&w=900"
+    },
+    {
+        "id":8,
+        "name": "Wings of Imagination",
+        "title": "Beyond The Skies",
+        "price":0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/magic-fairytale-book-concept_23-2150171876.jpg?t=st=1732166386~exp=1732169986~hmac=b1b244ab9f9d181825bcce81d2863059ddd3da13505e390db85f23d2ebc7fa98&w=996"
+    },
+    {
+        "id":9,
+        "name": "he Chronicles of Adventure",
+        "title": "The King's Treasure",
+        "price":0,
+        "category": "Free",
+        "image": "https://img.freepik.com/premium-photo/unrecognizable-man-with-backpack-looking-wonderful-waterfall_636638-1887.jpg?w=996"
+    },
+    {
+        "id":10,
+        "name": "Hidden Wonders",
+        "title": "The Crystal's Cave",
+        "price":0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-photo/fantasy-landscape-cave-illustration_23-2151844164.jpg?t=st=1732166531~exp=1732170131~hmac=6d2ad596787ae4d3b3be571de85c882110084fb95d7326c41ddf890576e935cc&w=996"
+    },
+    {
+        "id":11,
+        "name": "The Mystical Journey",
+        "title": "The Lost Star",
+        "price":12.5,
+        "category": "Priced",
+        "image": "https://img.freepik.com/free-photo/money-fantasy-scene_23-2151663093.jpg?t=st=1732166672~exp=1732170272~hmac=0a9cfd50575db63417117aafb4a8d54506bb5157e2c274b89b24329b810ca1a8&w=996"
+    },
+    {
+        "id":12,
+        "name": "Beyond the Horizon",
+        "title": "The Infinite World",
+        "price":8.75,
+        "category": "Priced",
+        "image": "https://img.freepik.com/free-photo/full-shot-man-silhouette-sunset_23-2150343145.jpg?t=st=1732166728~exp=1732170328~hmac=c6f753a74b43d8f7b26f3bf56a9adc853bdc55ad26c8e4d683a7f8883c96953a&w=996"
+    },
+    {
+        "id":13,
+        "name": "Legends of the Night",
+        "title": "The Sorcerer's Spell",
+        "price":9.8,
+        "category": "Priced",
+        "image": "https://img.freepik.com/free-vector/gradient-werewolf-illustration_23-2149672076.jpg?t=st=1732166778~exp=1732170378~hmac=2e356210e0b212f3aed47c0652984aa83d9da5f50bb255bc14e0015417a5d84e&w=996"
+    },
+    {
+        "id":14,
+        "name": "The Golden Prophecy",
+        "title": "The final eclipse",
+        "price":6.8,
+        "category": "Priced",
+        "image": "https://img.freepik.com/free-photo/open-book-concept-fiction-storytelling_23-2150793593.jpg?t=st=1732166927~exp=1732170527~hmac=79a2af3754cd1d39b5f96677d76bf4e3fce59ca60f2325caf8882733955fe087&w=996"
+    },
+    {
+        "id":15,
+        "name": "Whispers of the Past",
+        "title": "The Shadow's Secret",
+        "price":12.8,
+        "category": "Priced",
+        "image": "https://img.freepik.com/free-photo/beautiful-sensitive-hands-concept_23-2149535945.jpg?t=st=1732166990~exp=1732170590~hmac=b023bf166f33f5ab122fc2138e5642563f50f44a2a6b475a689d070bbb5cc040&w=996"
+    },
+    {
+        "id":16,
+        "name": "Chronicles of the Forgotten",
+        "title": "The Last Sorceress",
+        "price":10.45,
+        "category": "Priced",
+        "image": "https://img.freepik.com/free-photo/fairytale-storytelling-with-open-book-concept_23-2150793665.jpg?t=st=1732167056~exp=1732170656~hmac=e680090415aa132c5ed239c4636e9e76df601080ed4839a004e6cffb017409b0&w=996"
+    },
+    {
+        "id":17,
+        "name": "The Forgotten Kingdom",
+        "title": "A tail of Lost Worlds",
+        "price":12.3,
+        "category": "Priced",
+        "image": "https://img.freepik.com/free-photo/view-castle-with-nature-landscape_23-2150743734.jpg?t=st=1732168325~exp=1732171925~hmac=f7f3b32fe6a6af17b1cd70d51beb468a337ebdbda8ddfed36feccd909f5ef3e6&w=996"
+    },
+    {
+        "id":18,
+        "name": "Fires of Fate",
+        "title": "The Eternal FLame",
+        "price":6.4,
+        "category": "Priced",
+        "image": "https://img.freepik.com/free-photo/woman-celebrating-lohri-punjabi-folk-festival_23-2151020173.jpg?t=st=1732168386~exp=1732171986~hmac=319945dd744020e512c1f18ba99f0ab65fde3acbbeeddf08c84f143b0b52c826&w=996"
+    },
+    {
+        "id":19,
+        "name": "The Starlit Path",
+        "title": "A journey To the Unknown Path",
+        "price":11.2,
+        "category": "Priced",
+        "image": "https://img.freepik.com/free-photo/fantasy-astral-wallpaper-composition_23-2150248012.jpg?t=st=1732168461~exp=1732172061~hmac=bbdbe8f89717330012507eeca71008df464f628af790086a6c97add005ed21a7&w=740"
+    },
+    {
+        "id":20,
+        "name": "Echoes of the Abyss",
+        "title": "The Abyssal Depth",
+        "price":20.1,
+        "category": "Priced",
+        "image": "https://img.freepik.com/free-photo/door-leading-magical-world_23-2151038374.jpg?t=st=1732168518~exp=1732172118~hmac=49fd2211eaff6079d3df1904438f722c65afbd2863a611c058093f6559492423&w=996"
+    }
+]
